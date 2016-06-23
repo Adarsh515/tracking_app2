@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" shape="rectangle">
+    <!--this is to give gradient effect -->
+    <gradient   android:angle="270"
+        android:startColor="#ff2e8b57"
+        android:endColor="#ff2e8b57"
+        />
+    <!-- this is make corners of button rounded -->
+
+
+</shape><!-- From: file:/C:/Users/Adarsh/AndroidStudioProjects/tracking_app2/app/src/main/res/drawable/button1_hover.xml -->

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#000"
+        android:text="Task Name"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/textdTaskname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/textView1"
+        android:layout_marginLeft="40dp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:textColor="#000"
+        android:text="Medium Text"
+
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Task Description"
+        android:textColor="#000"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/textdTaskDis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/textView2"
+        android:layout_below="@id/textdTaskname"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="7dp"
+        android:gravity="center"
+        android:textColor="#000"
+
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/buttonTaskSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textassignDate"
+       style="@style/SelectableItemBackground"
+        android:textColor="#000"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="InProgress" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000"
+        android:text="Assigned Date" />
+
+
+
+    <Button
+        android:id="@+id/button1taskCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/buttonTaskSubmit"
+        android:layout_below="@+id/textassignDate"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:background="?attr/selectableItemBackground"
+        android:textColor="#000"
+        android:text="Cancel" />
+
+    <TextView
+        android:id="@+id/textassignDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textdTaskDis"
+        android:layout_toRightOf="@+id/textView3"
+        android:text="Medium Text"
+        android:layout_marginTop="7dp"
+        android:layout_marginLeft="22dp"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/buttonok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        style="@style/SelectableItemBackground"
+        android:layout_below="@+id/textView3"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="10dp"
+        android:text="OK"
+        android:textColor="#000"
+        android:visibility="gone" />
+
+</RelativeLayout>

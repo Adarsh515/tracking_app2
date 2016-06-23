@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:gravity="center"
+    >
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/track_splash"
+        android:id="@+id/imgview"
+        android:layout_marginTop="40dp"
+        android:background="@null"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgview"
+        android:id="@+id/txtvw"
+        android:text="Location Tracking"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:textColor="#0494a9"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtvw"
+        android:src="@drawable/splash_image"
+        android:background="@null"/>
+
+
+
+</RelativeLayout><!-- From: file:/C:/Users/Adarsh/AndroidStudioProjects/tracking_app2/app/src/main/res/layout/activity_splash.xml -->

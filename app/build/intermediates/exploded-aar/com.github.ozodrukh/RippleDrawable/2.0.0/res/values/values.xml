@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/build/app/src/main/res/values/attrs.xml -->
+    <eat-comment/>
+    <attr format="reference" name="backgroundCompat"/>
+    <attr format="boolean" name="isInScrollContainer"/>
+    <attr format="reference" name="srcCompat"/>
+    <declare-styleable name="LayerDrawable"><attr name="android:visible"/><attr name="android:opacity"/><attr name="android:autoMirrored"/><attr name="android:paddingMode"/></declare-styleable>
+    <declare-styleable name="LayerDrawableItem"><attr name="android:left"/><attr name="android:top"/><attr name="android:right"/><attr name="android:bottom"/><attr name="android:drawable"/><attr name="android:id"/></declare-styleable>
+    <declare-styleable name="RippleDrawable"><attr name="android:color"/></declare-styleable>
+</resources>

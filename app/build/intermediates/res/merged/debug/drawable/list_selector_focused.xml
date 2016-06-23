@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:startColor="@color/Goldenrod"
+        android:endColor="@color/Goldenrod"
+        android:angle="90" />
+</shape><!-- From: file:/C:/Users/Adarsh/AndroidStudioProjects/tracking_app2/app/src/main/res/drawable/list_selector_focused.xml -->

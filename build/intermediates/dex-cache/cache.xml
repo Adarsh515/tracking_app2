@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-61939fc177bfe3c4c5ab05fe81eae37fc4579600.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-97c8293ecd11da78ce8bf99e7ca814bf621faf8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-97fd6f46e49233e164fcd12deeeac273c0baa216.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-422dd977c35bdce95ff6dd7e44f88accbdf58235.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-53768bf3c4d56a18c25647ad8e4253575e66efa4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-9cc50d201994d85fd0de7b52d12702aa91b91b77.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-2b608892f06f58df4dfc858c58a30ff876b57c7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-7b6a56b455b21cb3f0bb642f8c1db058bb31884c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-d72b207b23eec57bcc2133dd6fd50febddcf83b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-c1481628cbc2622e48007505f8ea41bb97c179e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\libs\httpclient-4.0.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcacc35075d9c3114da4c4122b42d78786135c90">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\httpclient-4.0.3-3d6a4addba3ec0434c29813402aeec8835e6a9b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-a66910a5d590bc40f4396e00c5e6aa6c46db43a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\libs\apache-httpcomponents-httpcore.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\apache-httpcomponents-httpcore-040bc0589a8d730466c95527df9ef2d5a54caa15.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-40c062dea79523d67a8dc56f9f10969c3d0036f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-826b78909f4ab91a2bb65813078552e6f68a040b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-b6b8afde88dcae915959ea514f8ace1d2a8a52bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-b7c68006e3e063b470db5e3dcc13b0bedb7ac850.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-453a02edf2a55c916ae980d028a5a995bb40ff29.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-f86602a02f2de5d470bc741c4fe42546883fd536.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-05450c2066ccd94955509c6046431ad055fb7183.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-efd76a5114d49ad216888cd6c9ea633f13743215.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-d66eb18aa32986f477e7323f947f073e8820aada.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-420f20aabe3ce90ca4058d813bd96825da7278ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-9bdc70d3c4cca009db4fb22045a38f127cbfabe3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\me.drakeet.materialdialog\library\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6e57fe155cea810fb2ba5fe9ffabcb197ecf81d1">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-4b86bff30c4b5d72d5b49914a9b45cbb2f34f586.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-50d9c8f6ce5983299b7a2fabfbd1f6b87d34d44b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-acc1f87983dfc8e93f41298ebb412daa2690305d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-909cbe9fbe3e2a555ed0a49bd4520ba44293fa9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.github.ozodrukh\RippleDrawable\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="669faef9e346b0e70865d35f3c05c7d5ff277013">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-8f4c7bb34f8ba342ae77f45a7cd0d95959664ad3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-93734fd3080b2230281641e6d7cb09df7103b78c.jar" />
+    </item>
+    <item
+        jar="D:\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-1d16d9cf9763bdb3341c74fb4eadeed8a028fc62.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-c876f7d91f3cadcf100e847d2130b3a6ba069073.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-4b3587c07cb2e7f943be56e9335d6e74b4cf6500.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Adarsh\AndroidStudioProjects\tracking_app2\app\build\intermediates\pre-dexed\debug\classes-5f9bfe9df54bdba3c8dec6d4550ea6093d090135.jar" />
+    </item>
+
+</items>

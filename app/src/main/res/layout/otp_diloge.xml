@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/edtdialog"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+
+        android:ems="10"
+        android:layout_centerHorizontal="true"
+        android:hint="Enter OTP"
+        android:inputType="numberDecimal"
+        android:paddingLeft="10dp"
+        android:textColorHint="#70000000"
+        android:cursorVisible="true"
+        android:textCursorDrawable="@drawable/cursor">
+
+
+        <requestFocus />
+    </EditText>
+
+<!--
+            <Button
+                android:id="@+id/btnRegen"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="@null"
+                android:layout_toLeftOf="@+id/buttcompleat"
+                android:text="Regenerate"
+                android:layout_below="@+id/edtdialog"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_marginLeft="20dp"
+                android:textColor="@color/Brown" />
+                -->
+
+
+<!--
+
+      <Button
+          android:id="@+id/buttcompleat"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_centerHorizontal="true"
+          android:gravity="center"
+          android:layout_marginRight="10dp"
+          android:layout_alignParentRight="true"
+          android:layout_marginLeft="10dp"
+          android:layout_below="@+id/edtdialog"
+
+          android:layout_marginBottom="10dp"
+          android:layout_marginTop="10dp"
+          android:background="@null"
+          android:text="Verify"
+          android:textColor="@color/Brown" />
+          -->
+
+
+
+  </RelativeLayout>

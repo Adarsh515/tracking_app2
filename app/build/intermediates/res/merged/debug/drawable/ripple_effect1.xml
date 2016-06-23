@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:color="#ff2e8b57"
+    tools:targetApi="lollipop">
+    <item android:id="@android:id/mask">
+        <shape android:shape="rectangle">
+            <solid android:color="#ff2e8b57" />
+        </shape>
+    </item>
+</ripple><!-- From: file:/C:/Users/Adarsh/AndroidStudioProjects/tracking_app2/app/src/main/res/drawable/ripple_effect1.xml -->

@@ -1,0 +1,88 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme1" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#0494a9</item>
+        <item name="colorPrimary">#02aac2</item>
+        <item name="colorPrimaryDark">#02aac2</item>
+        <item name="colorAccent">#02aac2</item>
+    </style>
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+        </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#0494a9</item>
+        <item name="colorPrimary">#02aac2</item>
+        <item name="colorPrimaryDark">#02aac2</item>
+        <item name="colorAccent">#02aac2</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="AppTheme.Fullscreen" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">#DAA520</item>
+        <item name="android:textColorPrimary">#000</item>
+        <item name="android:background">#fff</item>
+    </style>
+    <style name="MyDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@color/Brown</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">@color/Brown</item>
+        <!--dialog background-->
+        <item name="android:windowBackground">@drawable/dialog</item>
+    </style>
+    <style name="MyDialogTheme1" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@color/Brown</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">#ffff0000</item>
+        <!--dialog background-->
+        <item name="android:windowBackground">@drawable/dialog</item>
+    </style>
+    <style name="MyDialogTheme2" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@color/Brown</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">#ff008000</item>
+        <!--dialog background-->
+        <item name="android:windowBackground">@drawable/dialog</item>
+    </style>
+    <style name="MyDialogTheme3" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@color/Brown</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">#ffffa500</item>
+        <!--dialog background-->
+        <item name="android:windowBackground">@drawable/dialog</item>
+    </style>
+    <style name="MyDialogTheme4" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@color/Brown</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">#ffffd700</item>
+        <!--dialog background-->
+        <item name="android:windowBackground">@drawable/dialog</item>
+    </style>
+    <style name="SelectableItemTheme">
+        <item name="colorControlHighlight">#ff66cdaa</item>
+    </style>
+    <style name="SelectableItemBackground">
+        <item name="android:theme">@style/SelectableItemTheme</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+
+
+</resources>
